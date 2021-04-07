@@ -1,0 +1,14 @@
+img{
+height: 400px;    
+width: 400px;   
+border: 2px solid #00ffff;
+border-radius: 4px;
+padding: 5px;
+}
+h1
+{
+    text-align: center;
+    text-decoration: underline;
+    color:cadetblue;
+}
+ 
